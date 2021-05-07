@@ -1,3 +1,6 @@
+import pandas
+import nltk
+
 def solution(scoville, K):
     answer = 0
     while (1):
@@ -9,5 +12,6 @@ def solution(scoville, K):
         if scoville[0] >= K:
             return answer
 
+# 123455
 
-print(solution([1, 2, 3, 9, 10, 12], 7))
+print(solution([2, 3, 9, 10, 12], 7))
