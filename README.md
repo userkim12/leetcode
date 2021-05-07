@@ -1,8 +1,8 @@
 ## 제목!
 
-*"# leetcode" 
-*this is example file 
-*this is example file 
+* "# leetcode" 
+* this is example file 
+* this is example file 
 
 ## 환경설정
 
